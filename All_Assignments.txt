@@ -1,0 +1,39 @@
+Assignment 1- 7th Feb 2026 Create a strong code for password authentication using python.
+
+Assignment 2 (09/02/2026) Assignment Name :AI Around Me Description : List 10 real-life AI applications you use daily and explain how ML might work behind each in 1–2 lines.
+
+Assignment 3 (12/02/2026) Assignment Name : Smart Input Program Description : Build a Python program that takes name, age, hobby and prints a personalized message while categorizing age using conditionals
+
+Assignment 4 (17/02/2026) Assignment Name : Logic Builder Description : Print numbers 1–50 with Fizz/Buzz logic and count occurrences using loops and functions.
+
+Assignment 5 (19/02/2026) Assignment Name : Student Data Manager Description : Store data for 5 students using dictionaries, print topper, class average, and assign grades.
+
+Assignment 6 (20/02/2026) Assignment Name : NumPy Speed Test Description : Compare Python lists vs NumPy arrays with 1M numbers, measure execution time, write 3 observations.
+
+Assignment 7 (24/02/2026) Assignment Name : Dataset Detective Description : Load a dataset, display top rows, find highest value column, count missing values, share 5 insights.
+
+Assignment 8 (26/02/2026) Assignment Name : Data Doctor Description : Clean a dataset by handling missing values, removing duplicates, standardizing text, and explain why cleaning matters.
+
+Assignment 9 (28/02/2026) Assignment Name : Storytelling with Graphs Description : Create bar chart, pie chart, histogram and write a short data story explaining trends.
+
+Assignment 10 (02/03/2026) Assignment Name : ML Idea Generator Description : Suggest ML problems in college, healthcare, shopping and describe input → output
+
+Assignment 11 (03/03/2026) Assignment Name : Build Your First Dataset Description : Create a dataset (e.g., study hours vs marks), identify features & labels, predict relationship.
+
+Assignment 12 (07/03/2026) Assignment Name : KNN in Real Life Description : Explain Netflix-like recommendations using KNN and create a small similarity example.
+
+Assignment 13 (09/03/2026) Assignment Name : House Price Predictor Description : Train a Linear Regression model, predict prices, and test with new input.
+
+Assignment 14 (10/03/2026) Assignment Name : Spam Classifier Thinking Description : Design a spam detection system: features, data needed, possible mistakes.
+
+Assignment 15 (11/03/2026) Assignment Name : Customer Segmentation Description : Perform K-Means clustering on a mall dataset and describe customer groups
+
+Assignment 16 (12/03/2026) Assignment Name : Decision Tree on Paper Description : Draw a decision tree predicting whether you should play outside.
+
+Assignment 17 (18/03/2026) Assignment Name : Customer Segmentation Description : Perform K-Means clustering on a mall dataset and describe customer groups.
+
+Assignment 18 (19/03/2026) Assignment Name : Mini Project Proposal Description : Submit a 1-page proposal with problem, dataset, algorithm, expected output.
+
+Assignment 19 (20/03/2026) Assignment Name : Text Challenges Description :Collect 20 messy sentences and identify slang, emojis, typos; explain preprocessing needed.
+
+Assignment 20 (21/03/2026) Assignment Name : Build a Text Cleaner Description : Write code to remove punctuation, lowercase text, remove stopwords and test it.

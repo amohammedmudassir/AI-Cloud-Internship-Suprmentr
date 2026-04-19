@@ -1,0 +1,44 @@
+Assignment-02 (9th feb 2026)
+
+Task: List 10 real-life AI applications you use daily and explain how ML might work behind each in 1–2 lines.
+
+1)google search 
+   
+  Tech used:rankbrain(dl model)
+  interpret search queries and rank pages based on relevance
+
+2)google maps traffic prediction 
+
+   Tech used: ml+historical data +real time gps data
+
+3)YouTube Recommdations
+   
+   Tech used :collabrative filtering+dl
+
+4)Insta fee
+
+  tech used:ranking algo (ml classification model)
+
+5)gmail spam filter
+
+tech used:naive bayes?classification
+
+6)youtube recommadations
+
+tech used :recommendations
+
+7)siri /google voice search 
+
+tech used :NLP+speech recognisition
+
+8)face lock
+
+tech used:cnn/computer vision 
+
+9)swiggy delivery time:
+
+tech used:regression model
+
+10)amazon products suggestions
+
+tech used:recommendation systems 
